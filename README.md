@@ -1,2 +1,2 @@
 # curso-webpack-react
-Using webpack and react to build and deploy
+Using webpack and react to build
